@@ -15,7 +15,7 @@ function Coming() {
 
                     <div className="image max-w-[450px] h-[350px] md:min-w-[300px] md:h-[300px]">
 
-                        <img src="/images/packet-shirt.jpg" alt="shirt" className="w-[100%] h-[100%]" />
+                        <img src="images/packet-shirt.jpg" alt="shirt" className="w-[100%] h-[100%]" />
                     </div>
                 </div>
             </main>
