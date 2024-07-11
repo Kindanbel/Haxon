@@ -48,7 +48,7 @@ function Categories(){
                             </div>
                         </div>
                         <div className="image w-auto h-[500px] md:h-[400px] lg:h-[500px] xl:h-[430px] flex items-center justify-center">
-                            <img src="/images/hoodie5 1.svg" alt="boy" width={500} className="h-[100%]" />
+                            <img src="images/hoodie5 1.svg" alt="boy" width={500} className="h-[100%]" />
                         </div>
                     </div>
 
@@ -63,7 +63,7 @@ function Categories(){
                             </div>
                         </div>
                         <div className="image w-auto h-[500px] flex items-center justify-center">
-                            <img src="/images/girlpic2 1.svg" alt="girl" width={500} className="h-[100%]" />
+                            <img src="images/girlpic2 1.svg" alt="girl" width={500} className="h-[100%]" />
                         </div>
                     </div>
 
@@ -78,7 +78,7 @@ function Categories(){
                             </div>
                         </div>
                         <div className="image w-auto h-[350px] flex items-center justify-center">
-                            <img src="/images/oversized 1.svg" alt="boy" className="h-[100%]" />
+                            <img src="images/oversized 1.svg" alt="boy" className="h-[100%]" />
                         </div>
                     </div>
 
@@ -93,7 +93,7 @@ function Categories(){
                             </div>
                         </div>
                         <div className="image w-auto h-[350px] flex items-center justify-center">
-                            <img src="/images/boy shirt 1.svg" alt="boy" className="h-[100%]" />
+                            <img src="images/boy shirt 1.svg" alt="boy" className="h-[100%]" />
                         </div>
                     </div>
 
@@ -108,7 +108,7 @@ function Categories(){
                             </div>
                         </div>
                         <div className="image w-auto h-[500px] md:h-[400px]  flex items-center justify-center">
-                            <img src="/images/couple black tees 1.svg" alt="boy" className="h-[100%]" />
+                            <img src="images/couple black tees 1.svg" alt="boy" className="h-[100%]" />
                         </div>
                     </div>
                 </div>
