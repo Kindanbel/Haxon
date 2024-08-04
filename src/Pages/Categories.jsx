@@ -23,7 +23,7 @@ function Categories(){
                     </h2>
                 </div>
 
-                <div className="button-links ml-[5%] md:ml-0 md:pl-[0] pl-[50%] w-[100%] justify-center overflow-scroll flex flex-row gap-7">
+                <div className="button-links ml-10% md:ml-0 md:pl-[0] px-[5%] w-[100%] overflow-scroll flex gap-5">
                         {
                             buttonLinks.map((buttons)=>{
                                 return(
@@ -35,7 +35,7 @@ function Categories(){
                         }
                     </div>
 
-                <div className="collection-gal grid grid-cols-1 lg:grid-cols-3 grid-rows-2 gap-3 px-[10%]">
+                <div className="collection-gal grid grid-cols-1 lg:grid-cols-3 grid-rows-2 gap-3 px-[5%] md:px-[10%] ">
 
                     <div className="gal1 bg-gray-200 text-haxonBlack w-auto h-[400px] overflow-hidden px-3 pt-3">
                         <div className="gal-header flex justify-between">

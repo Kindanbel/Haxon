@@ -10,13 +10,13 @@ function Arrivals(){
                     <h2 className="text-[30px] font-[500]">
                         New Arrivals
                     </h2>
-                    <p className="text-center w-[100%] px-[10%] md:px-0 md:w-[60%] lg:w-[40%] capitalize">
+                    <p className="text-center w-[100%] px-[5%] md:px-0 md:w-[60%] lg:w-[40%] capitalize">
                         introducing our latest arrivals. Unveil the fresh trends and must have styles. 
                         Discover a capturing selection of new fashion arrivals at Style Haxon.
                     </p>
                 </div>
 
-                <div className="product-gallery ml-[10%] mt-10 w-[100%] overflow-scroll flex gap-3 pr-[200px]">
+                <div className="product-gallery ml-[5%] mt-10 w-[100%] overflow-scroll flex gap-3 pr-[200px]">
                     {products.map((product) =>{
                         return(
                             <Product 

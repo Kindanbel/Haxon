@@ -4,17 +4,17 @@ function Collection() {
     return (
         <div>
             <main className="md:px-[10%]  py-[50px] overflow-hidden">
-                <div className="header text-[30px] font-[500] px-[10%] md:px-0">
+                <div className="header text-[30px] font-[500] px-[5%] md:px-0">
                     Top collections for you
                 </div>
-                <div className="paragraph py-3 lg:w-[50%] md:w-[70%] w-full px-[10%] md:px-0">
+                <div className="paragraph py-3 lg:w-[50%] md:w-[70%] w-full px-[5%] md:px-0">
                     We take great pride in curating our top collections to cater the diverse
                     tastes and preferences of our esteemed customers. Each collection embodies a unique 
                     essence qnd showcases the latest trends. Here are some of our top collections
                 </div>
                 <div 
                 className=
-                "pl-[10%] pr-[40px] md:pr-0 md:pl-0 image-gallery pt-5 md:grid flex gap-5 md:grid-cols-1 lg:grid-cols-3 lg:grid-rows-2 overflow-scroll ">
+                "pl-[5%] pr-[40px] md:pr-0 md:pl-0 image-gallery pt-5 md:grid flex gap-5 md:grid-cols-1 lg:grid-cols-3 lg:grid-rows-2 overflow-scroll ">
                     {/*Image galleries */}
 
                     <div className="galleries

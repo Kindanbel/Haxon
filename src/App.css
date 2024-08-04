@@ -31,7 +31,7 @@ body{
 /*Media Queries*/
 
 
-/*Media Queries: Mobile view*/
+/*Media Queries: Mobile view
 
 
 @media(max-width: 750px){
@@ -41,15 +41,15 @@ body{
 }
 
 
-@media(max-width: 550px){
+@media(max-width: 541px){
    .hero-image{
-      bottom: -500px;
+      bottom: -400px;
    }
 }
 
 @media(max-width: 440px){
    .hero-image{
-      bottom: -700px;
+      bottom: -600px;
    }
 }
 
@@ -59,21 +59,38 @@ body{
    }
 }
 
+@media(max-width: 415px){
+   .hero-image{
+      bottom: 0px;
+   }
+}
+
+@media(max-width: 413px){
+   .hero-image{
+      bottom: -560px;
+   }
+}
+
 @media(max-width: 391px){
    .hero-image{
-      bottom: -620px;
+      bottom: -520px;
    }
 }
 
 @media(max-width: 376px){
    .hero-image{
-      bottom: -470px;
+      bottom: -350px;
    }
 }
 
 @media(max-width: 361px){
    .hero-image{
-      bottom: -550px;
+      bottom: -400px;
    }
 }
 
+@media(max-width: 345px){
+   .hero-image{
+      bottom: -550px;
+   }
+}*/
