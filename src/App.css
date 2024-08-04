@@ -77,11 +77,7 @@ body{
    }
 }
 
-@media(max-width: 376px){
-   .hero-image{
-      bottom: -350px;
-   }
-}
+
 
 @media(max-width: 361px){
    .hero-image{
@@ -94,3 +90,5 @@ body{
       bottom: -550px;
    }
 }*/
+
+

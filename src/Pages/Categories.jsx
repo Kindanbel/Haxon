@@ -23,7 +23,7 @@ function Categories(){
                     </h2>
                 </div>
 
-                <div className="button-links ml-10% md:ml-0 md:pl-[0] px-[5%] w-[100%] overflow-scroll flex gap-5">
+                <div className="button-links ml-10% md:ml-0 md:pl-[0] px-[5%] w-[100%] md:justify-center overflow-scroll flex gap-5">
                         {
                             buttonLinks.map((buttons)=>{
                                 return(
